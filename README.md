@@ -1,4 +1,4 @@
-## [![My Skills](https://skillicons.dev/icons?i=c,php,laravel,react,typescript&perline=5)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=c,php,laravel,react,typescript,javascript&perline=6)](https://skillicons.dev)
 
 <!--
 **conique/conique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
